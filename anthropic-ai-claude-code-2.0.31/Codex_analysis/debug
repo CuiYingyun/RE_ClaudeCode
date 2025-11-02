@@ -1,0 +1,24 @@
+[DEBUG] Watching for changes in setting files /Users/yingyun/.claude/settings.json, /Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/.claude/settings.local.json...
+[ERROR] Error: Error: EPERM: operation not permitted, open '/Users/yingyun/.claude/statsig/statsig.session_id.2656274335'
+    at writeFileSync (node:fs:2368:20)
+    at fA0.setItem (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:3623:5415)
+    at Object.setItem (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:15668)
+    at a69 (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:15975)
+    at BI9 (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:40589)
+    at t59 (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:40019)
+    at Object.get (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:39616)
+    at Object.get (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:39512)
+    at HI9 (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:47341)
+    at mG0._getInternalRequestArgs (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:47114)
+[DEBUG] Watching for changes in setting files /Users/yingyun/.claude/settings.json, /Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/.claude/settings.local.json...
+[ERROR] Error: Error: EPERM: operation not permitted, open '/Users/yingyun/.claude/statsig/statsig.session_id.2656274335'
+    at writeFileSync (node:fs:2368:20)
+    at fA0.setItem (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:3623:5415)
+    at Object.setItem (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:15668)
+    at a69 (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:15975)
+    at BI9 (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:40589)
+    at t59 (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:40019)
+    at Object.get (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:39616)
+    at Object.get (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:39512)
+    at HI9 (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:47341)
+    at mG0._getInternalRequestArgs (file:///Users/yingyun/Projects/RE_ClaudeCode/anthropic-ai-claude-code-2.0.31/cli.js:33:47114)
