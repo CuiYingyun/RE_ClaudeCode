@@ -1,0 +1,14 @@
+# 大文件
+anthropic-ai-claude-code-2.0.31/cli.js
+
+# Node modules
+node_modules/
+
+# 系统文件
+.DS_Store
+*.log
+
+# IDE
+.vscode/
+.idea/
+
